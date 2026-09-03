@@ -50,7 +50,7 @@ El rotundo éxito de España con el lince ibérico (programa *LIFE LynxConnect*)
 
 *   **Centro de Cría de Alta Seguridad:** Construcción de un centro de cría en cautividad transfronterizo (ubicación propuesta: zona buffer del Parque Nacional Mavrovo, Macedonia del Norte) gestionado bajo los estrictos estándares biológicos aplicados en el centro español de *La Olivilla* o *El Acebuche*.
     
-*   **Criterio Genético Estricto:** Captura controlada de un número mínimo de ejemplares silvestres (evaluados mediante la tecnología WARNET) para fundar una línea genética limpia, complemento viable del flujo genético monitorizado del lince boreal e ibérico para evitar la consanguinidad extrema.
+*   **Criterio Genético Estricto:** Captura controlada de un número mínimo de ejemplares silvestres (evaluados mediante tecnología WARNET) para fundar una línea genética limpia, con minimo complemento viable de flujo genético monitorizado del lince boreal e ibérico para evitar la consanguinidad extrema.
    
 *   **Preparación para la Libertad:** Instalación de cercados de pre-suelta (*hard-release*) donde los cachorros nacidos en cautividad se entrenen exclusivamente con presas vivas (liebres y corzos) y sufran aversión al ser humano antes de su liberación definitiva.
 
