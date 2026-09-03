@@ -245,8 +245,8 @@ ____________________________________________
 
 
 -Cronograma de Trabajo.
-(Diagrama de Gantt)
+[(Diagrama de Gantt)](https://github.com/Men-Bat/RAmsON/blob/main/Cronograma_Gantt_WarNet_Lince.xlsx)
 
 -Presupuesto Desglosado de Fases y Partidas.
 
--Plan de Comunicación y Difusión Pública. (Dissemination Plan)
+-Plan de Comunicación y Difusión Pública. [(Dissemination Plan)](https://github.com/Men-Bat/RAmsON/Marketing.md)
