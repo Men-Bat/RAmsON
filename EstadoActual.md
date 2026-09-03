@@ -11,9 +11,9 @@
 
 
 
-* Población Actual: Clasificado en Peligro Crítico (CR) por la [UICN](https://www.iucn.org/es). La población se ha desplomado a un rango alarmante actual ya, de entre 35 y 50 individuos adultos en todo el mundo.
-* Variación Reciente: En los últimos años, la población reproductora real ha caído a apenas 20-39 ejemplares independientes, concentrados en núcleos aislados y con altos índices de consanguinidad. La inacción supone la extinción funcional de la subespecie antes de la próxima década.
-* 
+* Población Actual: Clasificado en Peligro Crítico (CR) por la [UICN](https://www.iucn.org/es). La población se ha desplomado a un rango alarmante actual ya, de entre 35 y 50 individuos adultos totales en todo el mundo.
+* Variación Reciente: En los últimos años, la población reproductora real ha caído a apenas 20-39 ejemplares independientes, concentrados en núcleos aislados y con altos índices de consanguinidad. La inacción supone la extinción de esta subespecie antes de la próxima década.
+  
 
 ------------------------------
 ## 🏛️ SIMULACRO DE AUDITORÍA: PREGUNTAS CRÍTICAS Y PLAN DE RESPUESTAS## Pregunta 1 (Sostenibilidad de Métodos): Las ONGs locales (MES, PPNEA) llevan casi 20 años usando cámaras trampa convencionales y rastreo a pie. ¿Por qué la UE debería financiar una infraestructura tan costosa como los drones solares WarNet en lugar de ampliar los métodos que ya manejan las ONGs?
