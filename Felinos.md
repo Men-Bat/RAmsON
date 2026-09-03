@@ -1,5 +1,8 @@
 El género Lynx está compuesto por cuatro especies únicas en todo el mundo. Mientras algunas gozan de poblaciones estables, otras han vivido al borde de la desaparición. [1] 
 
+<img width="800" height="530" alt="1000087402" src="https://github.com/user-attachments/assets/c8f65207-2b93-4629-8ae8-c1b4862ab7f8" />
+
+
 ---
 ------------------------------
 ## 🐾 Las 4 Especies de Linces del Mundo
@@ -33,10 +36,13 @@ El género Lynx está compuesto por cuatro especies únicas en todo el mundo. Mi
    
    
    
-   4. Lince Rojo o Gato Montés de Norteamérica (Lynx rufus):
+   4. Lince Rojo o [Gato Montés de Norteamérica](https://youtu.be/2VHf0BT0k-k?is=N4x4hixZW2spicTL) (Lynx rufus):
 
 
-   <img width="800" height="530" alt="1000087402" src="https://github.com/user-attachments/assets/c8f65207-2b93-4629-8ae8-c1b4862ab7f8" />
+
+
+   <img width="678" height="452" alt="1000087407" src="https://github.com/user-attachments/assets/60f828cb-1869-4842-9562-47672952b0be" />
+
 
     
  Es el más pequeño y adaptable de todos. Vive desde el sur de Canadá hasta el centro de México, tolerando entornos desérticos, pantanos y zonas suburbanas. Su población es abundante.
@@ -46,7 +52,7 @@ El género Lynx está compuesto por cuatro especies únicas en todo el mundo. Mi
 
 ---
 ## ⚠️ Otras especies en peligro crítico similar (Felinos y Europeos)
-Si nos fijamos en la situación límite que sufrió el lince ibérico o la que padece actualmente el lince de los Balcanes (del cual quedan menos de 50 individuos), existen otros animales en una carrera contrarreloj similar por su supervivencia: [2] 
+Si nos fijamos en la situación límite que )sufrió el lince ibérico o la que padece actualmente el lince de los Balcanes (del cual quedan menos de 50 individuos), existen otros animales en una carrera contrarreloj similar por su supervivencia: [2] 
 
 ---
 
