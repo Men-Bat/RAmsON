@@ -4,14 +4,14 @@
  Con la urgencia crítica basada en
  los datos biológicos más recientes de 
  la especie del Lince de los Balcanes.
-
+(Lince Balcánico Endémico.)
  
 ------------------------------
 ## ⏱️ Contexto Biológico de Urgencia (Datos 2026)
 
 
 
-* Población Actual: Clasificado en Peligro Crítico (CR) por la [UICN](https://www.iucn.org/es). La población se ha desplomado a un rango alarmante de entre 35 y 50 individuos adultos en todo el mundo.
+* Población Actual: Clasificado en Peligro Crítico (CR) por la [UICN](https://www.iucn.org/es). La población se ha desplomado a un rango alarmante actual ya, de entre 35 y 50 individuos adultos en todo el mundo.
 * Variación Reciente: En los últimos años, la población reproductora real ha caído a apenas 20-39 ejemplares independientes, concentrados en núcleos aislados y con altos índices de consanguinidad. La inacción supone la extinción funcional de la subespecie antes de la próxima década.
 * 
 
