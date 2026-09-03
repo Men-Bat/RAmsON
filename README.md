@@ -198,8 +198,9 @@ El área costera de Vlorë se encuentra bajo una fuerte presión de desarrollo. 
 | **Megaproyectos Turísticos en la Costa de Vlorë** | **ALTO** | • Urbanización masiva del litoral.<br>• Aumento del flujo humano y vehículos.<br>• Destrucción de la cobertura vegetal costera. | 1. **Límites al Desarrollo Terrestre (Buffer Zones):** Promover mediante la subvención la ampliación de las zonas de amortiguación donde la ley albanesa prohíba edificación hotelera pesada.<br>2. **Custodia de Territorio con Operadores:** Firmar acuerdos de conservación con complejos turísticos existentes para limitar la iluminación nocturna (protección de cielos oscuros) y prohibir actividades de todoterreno (*off-road*) fuera de pistas autorizadas.<br>3. **Monitorización HALE Temprana:** Uso del dron solar de alta cota para mapear semanalmente el avance del suelo urbanizado y denunciar invasiones ilegales de territorio forestal protegido. |
 | **Turismo Náutico y Recreativo en Karaburun** | **MEDIO** | • Perturbación en las calas de acceso costero.<br>• Generación de residuos en zonas vírgenes. | 1. **Restricción de Puntos de Desembarco:** Prohibir el fondeo y desembarco de turistas en las playas interiores que conectan con los valles de cría del lince.<br>2. **Turismo Científico Regulado:** Sustituir el turismo de masas por rutas controladas de senderismo científico guiado por los miembros formados del proyecto, generando ingresos alternativos y controlando el flujo humano. |
 
-### Criterio de Salvaguarda Ambiental Final
-[(Frente a posibles escenarios analizados)](https://github.com/yoqer/Guerras/blob/main/Demostracion)
+### Criterio de Salvaguarda Ambiental.
+[(Otros escenarios analizados)](https://github.com/yoqer/Guerras/blob/main/Demostracion)
+
 Si la monitorización continua mediante los Mini-Air-Fly integrados detectare alteraciones como que los niveles de ruido y luz del nuevo aeropuerto modifican los patrones de conducta nocturna de las liebres o linces en el sector costero, el proyecto debria activar de forma automática los **protocolos de translocación inducida**, reorientando las liberaciones exclusivamente hacia las laderas montañosas de la Cordillera de Lungara, que actúa como pantalla montañosa natural aislando el ruido costero del interior del país.
 
 
