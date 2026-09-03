@@ -249,7 +249,7 @@ ____________________________________________
 
 -Presupuesto Desglosado de [Fases y Partidas.](https://github.com/Men-Bat/RAmsON/blob/main/Presupuesto_Desglosado_WarNet_Lince.xlsx)
 
--Plan de Comunicación y Difusión Pública. [(Dissemination Plan)](https://github.com/Men-Bat/RAmsON/Marketing.md)
+-Plan de Comunicación y Difusión Pública. [(Dissemination Plan)](https://github.com/Men-Bat/RAmsON/blob/main/Marketing.md)
 
 
 
@@ -269,10 +269,9 @@ ____________________________________________
 # . Diversidad Biológica:
 Otras Especies Endémicas de los Balcanes: 
 
- [En Peligro de Extinción.](https://github.com/Men-Bat/RAmsON/Peligro.md)
+ [En Peligro de Extinción.](https://github.com/Men-Bat/RAmsON/blob/main/Peligros.md)
 
-
- [Ya Casi Extintas.](https://github.com/Men-Bat/RAmsON/Peligro.md)
+ [Ya Casi Extintas.](https://github.com/Men-Bat/RAmsON/blob/main/Peligro.md)
 
 
 <img width="400" height="400" alt="1000087237" src="https://github.com/user-attachments/assets/2bb4366e-a74f-4756-9270-1c7331272329" />
