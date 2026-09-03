@@ -168,7 +168,7 @@ ____________________________________________
 
 <img width="1300" height="1300" alt="1000087236" src="https://github.com/user-attachments/assets/9218f4ac-da2f-416b-80dd-e00a4a68c764" />
 
-(Con solo unos 50 ejemplares de la especie exclusiva de los Balcanes, es el gran felino de esta especie en Mayor ⚡ Peligro ⚡; gracias a los programas similares con sus parientes próximos: el Lince Ibérico mediterráneo y el más grande Lince Boreal de montaña, en cuyo centro se situa esta especie media en hábitat, clima y tamaño, aun con las mismas posibilidades de repoblación y de supervivencia que sus parientes Europeos.)
+(Con solo unos 50 ejemplares de la especie exclusiva de los Balcanes, es el gran felino de esta especie en Mayor ⚡ Peligro ⚡; gracias a los programas similares con sus parientes próximos: el Lince Ibérico mediterráneo y su más grande ancestro ek Lince Boreal de montaña, en cuyo centro se situa esta especie media: en hábitat, clima y tamaño, aun con las mismas posibilidades de repoblación y de supervivencia que sus parientes Europeos.)
 
 
 ________________________________________________________________________________________
