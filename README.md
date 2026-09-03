@@ -1,7 +1,7 @@
-# Lince 
+# Lince Balcánico (Lynx Balkan)
 
 
-Existen [4 Especies de Linces](https://github.com/Men-Bat/RAmsON/blob/main/Felinos.md) en el Mundo y solo una Subespecie distinta adaptada de una de ellas, en los Balcanes. (Lynx Balkan)
+Existen [4 Especies de Linces](https://github.com/Men-Bat/RAmsON/blob/main/Felinos.md) en el Mundo y solo una Subespecie distinta adaptada de una de ellas, en medio de todas habitando los Balcanes sobrevive el Lynx Balkan.
 
 
 
