@@ -209,7 +209,7 @@ El área costera de Vlorë se encuentra bajo una fuerte presión de desarrollo. 
 ### Criterio de Salvaguarda Ambiental.
 [(Analisis de variados escenarios posibles.)](https://github.com/yoqer/Guerras/blob/main/Demostracion)
 
-Si la monitorización continua mediante los Mini-Air-Fly integrados, detectasen alteraciones, como que los niveles de ruido y luz del nuevo aeropuerto modifican los patrones de conducta nocturna de las liebres o linces en el sector costero, el proyecto debria activar de forma automática los **protocolos de translocación inducida**, reorientando las liberaciones exclusivamente hacia las laderas montañosas de la Cordillera de Lungara, que actúa como pantalla montañosa natural aislando el ruido costero del interior del país.
+Si la monitorización continua mediante los Mini-Air-Fly integrados, detectan alteraciones, como,: que los niveles de ruido y luz del nuevo aeropuerto modifican los patrones de conducta nocturna de las liebres o linces en el sector costero, el proyecto podria activar de forma automática los **protocolos de translocación inducida**, reorientando las liberaciones exclusivamente hacia las laderas montañosas de la Cordillera de Lungara, que actúa como pantalla montañosa natural aislando el ruido costero del interior del país.
 
 
 
