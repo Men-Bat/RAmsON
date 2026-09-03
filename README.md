@@ -10,7 +10,7 @@
 *   **Título del Proyecto:** *Balkan Lynx Sky-Corridor & Recovery Initiative* (Iniciativa de Recuperación y Corredor Aéreo del Lince de los Balcanes).
 *   **Instrumento de Financiación Objetivo:** Fondos de Asistencia Preadhesión de la Unión Europea (**Mecanismo IPA III / Interreg IPA Occidental**), con cofinanciación de **IUCN Save Our Species** y fundaciones globales.
 *   **Presupuesto Estimado:** 8.500.000 € (Fase 1: Desarrollo tecnológico y viabilidad de corredores; Fase 2: Infraestructura de cría y reintroducción).
-*   **Consorcio Proponente:** MES (Macedonia del Norte), PPNEA (Albania), Finch/ERA (Kosovo), en colaboración con el Ministerio de Transición Ecológica de España (Asesor Técnico Exteriomente).
+*   **Consorcio Proponente:** MES (Macedonia del Norte), PPNEA (Albania), Finch/ERA (Kosovo), en colaboración con el Ministerio de Transición Ecológica de España (Asesor Técnico Exteriormente).
 
 ---
 
