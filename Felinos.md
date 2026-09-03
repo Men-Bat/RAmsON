@@ -3,10 +3,32 @@ A continuación, se detallan las cuatro especies de linces existentes y otros an
 ------------------------------
 ## 🐾 Las 4 Especies de Linces del Mundo
 
-   1. Lince Boreal o Euroasiático (Lynx lynx): Es el gigante del grupo (18–30 kg). Se extiende desde Europa Central hasta Siberia y Asia Oriental. Su estado global es de Preocupación Menor, aunque subespecies aisladas (como el lince de los Balcanes) están críticamente amenazadas. [1, 2, 3] 
-   2. Lince Canadiense (Lynx canadensis): Habitante de los densos bosques fríos de Alaska, Canadá y el norte de EE. UU.. Destaca por tener unas patas enormes cubiertas de un pelo muy grueso que actúan como raquetas naturales para caminar sobre nieve profunda. [1] 
-   3. Lince Ibérico (Lynx pardinus): Exclusivo de España y Portugal. Es considerado uno de los mayores éxitos de conservación del siglo: en el año 2001 quedaban solo 62 ejemplares maduros, pero gracias a los programas de cría en cautividad y reintroducción, su población en libertad supera los 2,600 ejemplares, logrando que la [Unión Internacional para la Conservación de la Naturaleza (UICN)](https://www.iucn.org/es) rebajara su estatus de amenaza de "Peligro Crítico" a Vulnerable. [1, 3, 4, 5] 
-   4. Lince Rojo o Gato Montés de Norteamérica (Lynx rufus): Es el más pequeño y adaptable de todos. Vive desde el sur de Canadá hasta el centro de México, tolerando entornos desérticos, pantanos y zonas suburbanas. Su población es abundante.
+   1. [Lince Boreal o Euroasiático](https://youtu.be/N3PmMLH0ji0?is=oR3W0cbx61NH5hli) (Lynx lynx):
+   
+    Es el gigante del grupo (18–30 kg). Se extiende desde Europa Central hasta Siberia y Asia Oriental. Su estado global es de Preocupación Menor, aunque subespecies aisladas (como el lince de los Balcanes) están críticamente amenazadas. [1, 2, 3] 
+
+
+    
+   2. Lince Canadiense (Lynx canadensis):
+   
+    
+    Habitante de los densos bosques fríos de Alaska, Canadá y el norte de EE. UU.. Destaca por tener unas patas enormes cubiertas de un pelo muy grueso que actúan como raquetas naturales para caminar sobre nieve profunda. [1] 
+
+
+    
+   3. Lince Ibérico (Lynx pardinus):
+   
+     
+     
+     Exclusivo de España y Portugal. Es considerado uno de los mayores éxitos de conservación del siglo: en el año 2001 quedaban solo 62 ejemplares maduros, pero gracias a los programas de cría en cautividad y reintroducción, su población en libertad supera los 2,600 ejemplares, logrando que la [Unión Internacional para la Conservación de la Naturaleza (UICN)](https://www.iucn.org/es) rebajara su estatus de amenaza de "Peligro Crítico" a Vulnerable. [1, 3, 4, 5] 
+   
+   
+   
+   
+   4. Lince Rojo o Gato Montés de Norteamérica (Lynx rufus):
+   
+    
+    Es el más pequeño y adaptable de todos. Vive desde el sur de Canadá hasta el centro de México, tolerando entornos desérticos, pantanos y zonas suburbanas. Su población es abundante.
 
 ------------------------------
 ---
