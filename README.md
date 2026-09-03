@@ -236,9 +236,9 @@ Para justificar de forma auditable los desembolsos financieros ante la Comisión
 ____________________________________________
 
 
--Cronograma de Trabajo Oficial
-(Diagrama de Gantt 2026 y 2032.)
+-Cronograma de Trabajo.
+(Diagrama de Gantt)
 
--Presupuesto Desglosado Estimado por Fases.
+-Presupuesto Desglosado por Partidas.
 
 -Plan de Comunicación y Difusión Pública. (Dissemination Plan)
