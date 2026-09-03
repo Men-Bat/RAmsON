@@ -35,7 +35,7 @@ Para evitar la intrusión humana en los inaccesibles y escarpados picos de los A
 
 ## 3. ADAPTACIÓN DEL "MODELO ESPAÑOL" A LOS BALCANES
 
-El rotundo éxito de España con el lince ibérico (programa *LIFE LynxConnect*) se replicará adaptándolo a la realidad balcánica en tres pilares:
+El rotundo éxito de España con el lince ibérico (programa *LIFE LynxConnect*) se replicará adaptándolo a la realidad balcánica en cuatro fases de actuación:
 
 
 
