@@ -5,7 +5,7 @@ ____________________________________________
 
 
 
-Los animales en peligro específico son:
+Los animales con un peligro específico son:
 
 ____________________________________________
 
@@ -53,7 +53,7 @@ ____________________________________________
 ## 3. La Tortuga Boba (Caretta caretta) y Tortuga Verde (Chelonia mydas)
 
 
-<img width="201" height="251" alt="1000087387" src="https://github.com/user-attachments/assets/59ea418f-a186-499c-8e3b-8be7e9089d8e" />
+<img width="351" height="251" alt="1000087387" src="https://github.com/user-attachments/assets/59ea418f-a186-499c-8e3b-8be7e9089d8e" />
 
 
 *Estado*: Vulnerable / En Peligro.
@@ -97,11 +97,11 @@ Las cámaras térmicas de gran altura del sistema pueden monitorizar simultánea
 
 -Los movimientos nocturnos de las focas monje en las calas de Karaburun sin molestarlas con barcos de investigación.
 
--Las rutas de aproximación de las bandadas de pelícanos ceñudos para obligar al aeropuerto a activar protocolos de parada temporal o radares de aves si hay riesgo de colisión.
+-Las rutas de aproximación de las bandadas de pelícanos ceñudos para obligar al aeropuerto a activar protocolos de parada temporal o radares de aves anti-colisión.
 
 ____________________________________________
 
-<img width="225" height="225" alt="1000087385" src="https://github.com/user-attachments/assets/3f8d661e-1943-4d31-9633-4cc746b0e218" />
+<img width="355" height="155" alt="1000087385" src="https://github.com/user-attachments/assets/3f8d661e-1943-4d31-9633-4cc746b0e218" />
 
 
 
