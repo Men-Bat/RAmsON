@@ -18,7 +18,7 @@ El género Lynx está compuesto por cuatro especies únicas en todo el mundo. Mi
 
 
     
-   2. Lince Canadiense (Lynx canadensis):
+   2. [Lince Canadiense](https://youtube.com/shorts/Znuj_ZmfuGc?is=Puq52iGYY0c8aYts) (Lynx canadensis):
    
  <img width="976" height="651" alt="1000087403" src="https://github.com/user-attachments/assets/c545183b-e781-44cf-bf7e-19fb19e931ef" />
 
