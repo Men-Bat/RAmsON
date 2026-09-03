@@ -16,7 +16,7 @@ A continuación, se detallan las cuatro especies de linces existentes y otros an
     
    2. Lince Canadiense (Lynx canadensis):
    
-    <img width="976" height="651" alt="1000087403" src="https://github.com/user-attachments/assets/c545183b-e781-44cf-bf7e-19fb19e931ef" />
+ <img width="976" height="651" alt="1000087403" src="https://github.com/user-attachments/assets/c545183b-e781-44cf-bf7e-19fb19e931ef" />
 
   Habitante de los densos bosques fríos de Alaska, Canadá y el norte de EE. UU.. Destaca por tener unas patas enormes cubiertas de un pelo muy grueso que actúan como raquetas naturales para caminar sobre nieve profunda. [1] 
 
@@ -24,7 +24,7 @@ A continuación, se detallan las cuatro especies de linces existentes y otros an
     
    3. Lince Ibérico (Lynx pardinus):
    
-     <img width="168" height="299" alt="1000087401" src="https://github.com/user-attachments/assets/bf28ae68-227d-4994-8d1c-6b6058ccf147" />
+   <img width="168" height="299" alt="1000087401" src="https://github.com/user-attachments/assets/bf28ae68-227d-4994-8d1c-6b6058ccf147"/>
 
      
  Exclusivo de España y Portugal. Es considerado uno de los mayores éxitos de conservación del siglo: en el año 2001 quedaban solo 62 ejemplares maduros, pero gracias a los programas de cría en cautividad y reintroducción, su población en libertad supera los 2,600 ejemplares, logrando que la [Unión Internacional para la Conservación de la Naturaleza (UICN)](https://www.iucn.org/es) rebajara su estatus de amenaza de "Peligro Crítico" a Vulnerable. [1, 3, 4, 5] 
@@ -33,6 +33,8 @@ A continuación, se detallan las cuatro especies de linces existentes y otros an
    
    
    4. Lince Rojo o Gato Montés de Norteamérica (Lynx rufus):
+
+
    <img width="800" height="530" alt="1000087402" src="https://github.com/user-attachments/assets/c8f65207-2b93-4629-8ae8-c1b4862ab7f8" />
 
     
