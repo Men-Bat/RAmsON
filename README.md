@@ -205,8 +205,40 @@ Si la monitorización continua mediante los Mini-Air-Fly integrados detectare al
 
 
 
+---
+
+
+
+## 8. INDICADORES CLAVE DE RENDIMIENTO (KPIs) Y MARCO DE EVALUACIÓN (2026-2032)
+
+Para justificar de forma auditable los desembolsos financieros ante la Comisión Europea, el éxito de la *Balkan Lynx Sky-Corridor Initiative* se medirá mediante los siguientes indicadores de impacto técnico, biológico y de mitigación:
+
+### Fase 1: Implementación Tecnológica y Viabilidad (Años 1 y 2: 2026 - 2028)
+*   **KPI T1 (Eficiencia de Monitoreo HALE):** Cobertura del 100% de la superficie del corredor transfronterizo (Mavrovo - Shebenik - Vlorë) mediante vuelos del dron solar de gran altitud, garantizando un mínimo de 150 horas de vuelo continuo por trimestre sin emisiones de carbono.
+*   **KPI T2 (Tasa de Intervención Micro-Dron):** Tiempo de respuesta menor a 20 minutos en el despliegue de los micro-drones exploradores tras la detección de alertas térmicas sospechosas (alertas de furtivismo o firmas de calor compatibles con felinos).
+*   **KPI A1 (Línea de Base de Presas):** Cartografiar y verificar un aumento mínimo del 15% en las poblaciones de liebre de monte en Karaburun y el Paisaje Protegido Vjosa-Narta mediante muestreos sistemáticos de ADN ambiental y cámaras trampa antes de realizar la primera liberación.
+
+### Fase 2: Introducción de Fauna y Mitigación del Aeropuerto (Años 3 y 4: 2028 - 2030)
+*   **KPI B1 (Éxito del Centro de Cría):** Lograr el nacimiento y supervivencia (hasta el destete) de un mínimo de 4 cachorros de lince de los Balcanes al año en el nuevo Centro Nacional de Cría en Cautividad.
+*   **KPI M1 (Efectividad del Aislamiento Acústico del Aeropuerto):** Mantener los niveles de presión sonora nocturna (Leq nocturno) por debajo de los 45 dB en la zona núcleo del corredor de Vjosa-Narta, certificado por los sensores acústicos integrados en el perímetro boscoso de mitigación del aeropuerto.
+*   **KPI M2 (Cero Siniestralidad Vial):** Construcción y validación técnica del 100% de los pasos de fauna y ecopuentes proyectados en las carreteras de acceso a Vlorë (Autopista Fier-Vlorë), registrando un indicador de **0 atropellos** de fauna silvestre protegida en los tramos modificados.
+
+### Fase 3: Conexión del Corredor y Sostenibilidad (Años 5 y 6: 2030 - 2032)
+*   **KPI B2 (Establecimiento y Confluencia en Vlorë):** Confirmar el establecimiento de al menos 2 territorios estables de linces liberados (macho y hembra con indicios de reproducción) en la Península de Karaburun y su conexión ecológica funcional a través del río Vjosa.
+*   **KPI S1 (Freno a la Presión Turística):** Mantener el 100% de las zonas núcleo de Karaburun libres de nuevas edificaciones turísticas o incursiones de vehículos todoterreno ilegales, validados de forma automatizada mediante las ortofotos semanales tomadas por el sistema WARNET-AIR.
+*   **KPI S2 (Impacto en la Comunidad Local):** Certificar que un mínimo de 50 empleos directos (guardabosques, científicos locales, guías de ecoturismo) en las comunidades rurales de Vlorë y los valles del interior dependen económicamente de las partidas del proyecto, asegurando la sostenibilidad social tras la finalización de los fondos públicos.
 
 
 
 
+<img width="400" height="400" alt="1000087238" src="https://github.com/user-attachments/assets/b504c00d-ec94-4a0a-8c62-24dd7d3c99f2" />
 
+____________________________________________
+
+
+-Cronograma de Trabajo Oficial
+(Diagrama de Gantt 2026 y 2032.)
+
+-Presupuesto Desglosado Estimado por Fases.
+
+-Plan de Comunicación y Difusión Pública. (Dissemination Plan)
