@@ -2,9 +2,9 @@
  
  
  Con la urgencia crítica basada en
- los datos biológicos más recientes de 
- la especie del Lince de los Balcanes.
-(Lince Balcánico Endémico.)
+ los datos biológicos recientes de 
+ la especie del Lince Endémico de los Balcanes.
+(Lince Balcánico)
  
 ------------------------------
 ## ⏱️ Contexto Biológico de Urgencia (Datos 2026)
