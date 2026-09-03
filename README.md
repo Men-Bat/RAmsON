@@ -54,6 +54,10 @@ El rotundo éxito de España con el lince ibérico (programa *LIFE LynxConnect*)
    
 *   **Preparación para la Libertad:** Instalación de cercados de pre-suelta (*hard-release*) donde los cachorros nacidos en cautividad se entrenen exclusivamente con presas vivas (liebres y corzos) y sufran aversión al ser humano antes de su liberación definitiva.
 
+
+  *  **Consolidación en el Medio:**
+    Entidad independiente de protección furtiva de caza y pesca en los ámbitos rurales; en combinación de vigilancia de presas introducidas de naturaleza endémica, con su cria cautiva natural y liberación 
+en el medio con introducción de medios de supervivencia natural independiente en coordinación con la autoridades locales y centros de conservación natural rural.
 ---
 
 -Opción Inicial Básica: 
