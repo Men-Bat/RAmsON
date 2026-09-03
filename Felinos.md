@@ -1,4 +1,5 @@
 El género Lynx está compuesto por cuatro especies únicas en todo el mundo. Mientras algunas gozan de poblaciones estables, otras han vivido al borde de la desaparición. [1] 
+
 A continuación, se detallan las cuatro especies de linces existentes y otros animales que comparten un peligro de extinción crítico similar.
 ------------------------------
 ## 🐾 Las 4 Especies de Linces del Mundo
@@ -24,7 +25,7 @@ A continuación, se detallan las cuatro especies de linces existentes y otros an
     
    3. Lince Ibérico (Lynx pardinus):
    
-   <img width="168" height="299" alt="1000087401" src="https://github.com/user-attachments/assets/bf28ae68-227d-4994-8d1c-6b6058ccf147"/>
+   <img width="268" height="299" alt="1000087401" src="https://github.com/user-attachments/assets/bf28ae68-227d-4994-8d1c-6b6058ccf147"/>
 
      
  Exclusivo de España y Portugal. Es considerado uno de los mayores éxitos de conservación del siglo: en el año 2001 quedaban solo 62 ejemplares maduros, pero gracias a los programas de cría en cautividad y reintroducción, su población en libertad supera los 2,600 ejemplares, logrando que la [Unión Internacional para la Conservación de la Naturaleza (UICN)](https://www.iucn.org/es) rebajara su estatus de amenaza de "Peligro Crítico" a Vulnerable. [1, 3, 4, 5] 
@@ -119,6 +120,16 @@ Si nos fijamos en la situación límite que sufrió el lince ibérico o la que p
 
 
   -Y sin resultados aparentes exiten igual del [Lince de los Balcanes.](https://youtu.be/NR8XY3Gan8U?is=y5aBAF8TnsIF0u3o)
+
+
+<img width="1200" height="827" alt="1000087409" src="https://github.com/user-attachments/assets/9c6d79bc-9dec-428e-bd68-36edebce4f86" />
+
+
+
+  ---
+
+
+  ---
 
 [1] [https://www.facebook.com](https://www.facebook.com/themissinglynxproject/posts/did-you-know-there-are-four-species-of-lynx-in-the-world-north-america-has-the-b/122201411264250410/)
 [2] [https://www.euronatur.org](https://www.euronatur.org/en/what-we-do/news/new-regional-strategy-for-balkan-lynx-conservation)
