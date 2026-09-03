@@ -153,9 +153,14 @@ Para garantizar la luz verde de los auditores de la Unión Europea, el presupues
 3.    **Marca de Ecoturismo de Alta Gama:** La creación del corredor dinárico-adriático posicionará a la región como un destino líder mundial para el turismo de avistamiento científico, atrayendo capital internacional sostenible.
 
 ---
+---
+
+---
 
 
 ________________________________________________________________________________________
+____________________________________________
+
 
 
 
@@ -163,12 +168,15 @@ ________________________________________________________________________________
 
 <img width="1300" height="1300" alt="1000087236" src="https://github.com/user-attachments/assets/9218f4ac-da2f-416b-80dd-e00a4a68c764" />
 
-(Con solo unos 50 ejemplares de la especie exclusiva de los Balcanes, es el tercer gran felino de esta especie en Mayor ⚡ Peligro ⚡; gracias a los programas similares con sus parientes próximos: el Lince Ibérico mediterráneo y el más grande Lince Boreal de montaña, en cuyo centro se situa esta especie media en hábitat, clima y tamaño, aun con las mismas posibilidades de repoblación y supervivencia que sus parientes Europeos.)
+(Con solo unos 50 ejemplares de la especie exclusiva de los Balcanes, es el tercer gran felino de esta especie en Mayor ⚡ Peligro ⚡; gracias a los programas similares con sus parientes próximos: el Lince Ibérico mediterráneo y el más grande Lince Boreal de montaña, en cuyo centro se situa esta especie media en hábitat, clima y tamaño, aun con las mismas posibilidades de repoblación y de supervivencia que sus parientes Europeos.)
 
 
 ________________________________________________________________________________________
+____________________________________________
 
 
+
+---
 
 ---
 
