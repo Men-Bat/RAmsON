@@ -19,4 +19,4 @@ Las cámaras térmicas de gran altura del sistema pueden monitorizar simultánea
 ____________________________________________
 
 
-(La coordinación con los movimientos de protección de los murciélagos de las Bat Cuevas, de la UE y de las alteraciones sonoras; hacen ahora más que necesaria la presencia en Organizaciones semejantes de Protección Animal, para la evaluación y detección temprana de riesgos y consecuencias para las distintas especies amenazadas y sus medio natural; en países que internamente tienden a la Privatización y disponen de poca Tecnología Propietaria.)
+(La coordinación con los movimientos de protección de los murciélagos de las Bat Cuevas, de la UE; y de las alteraciones sonoras; hacen ahora más que necesaria la presencia en Organizaciones semejantes de Protección Animal, para la evaluación y detección temprana de riesgos y consecuencias para las distintas especies amenazadas y sus medios naturales; en países que internamente tienden a la Privatización y disponiendo de poco desarrollo interno de Alta Tecnología Propietaria.)
