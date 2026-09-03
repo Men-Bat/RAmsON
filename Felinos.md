@@ -112,14 +112,13 @@ Si nos fijamos en la situación límite que sufrió el lince ibérico o la que p
 
 
 ---
-* Programas de reproducción fueron los que salvaron al [Lince Ibérico.](
+* Fueron Programas de Reproducción los que salvaron al [Lince Ibérico.](
 https://youtu.be/ChsaYWVmw9E?is=TApFgLDua0cnQsRW)
 
-* Y 
-  también existen [Programas de Protección del Leopardo de Amur](https://youtu.be/7m19cWvomrU) en los bosques nevados de Rusia.
+* Cómo existen [Programas de Protección del Leopardo de Amur](https://youtu.be/7m19cWvomrU) en los bosques nevados de Rusia.
 
 
-  -Y sin resultados aparentes exiten igual del [Lince de los Balcanes.](https://youtu.be/NR8XY3Gan8U?is=y5aBAF8TnsIF0u3o)
+  -Tambien sin resultados aparentes exiten igual del [Lince de los Balcanes.](https://youtu.be/NR8XY3Gan8U?is=y5aBAF8TnsIF0u3o)
 
 
 <img width="1200" height="827" alt="1000087409" src="https://github.com/user-attachments/assets/9c6d79bc-9dec-428e-bd68-36edebce4f86" />
