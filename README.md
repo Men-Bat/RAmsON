@@ -256,8 +256,9 @@ ____________________________________________
 ____________________________________________
 
 
-#. MOTIVACION.
+# MOTIVACION.
 
+<img width="740" height="740" alt="1000087374" src="https://github.com/user-attachments/assets/ac9089bc-43ef-49f8-9769-299176b56338" />
 
 
 ____________________________________________
@@ -265,7 +266,10 @@ ____________________________________________
 
 
 
-# . Diversidad Biológica en Peligro de Extinción.
+# . Diversidad Biológica:
+
+ [En Peligro de Extinción.](https://github.com/Men-Bat/RAmsON/Peligro.md)
+
 
 <img width="400" height="400" alt="1000087237" src="https://github.com/user-attachments/assets/2bb4366e-a74f-4756-9270-1c7331272329" />
 
