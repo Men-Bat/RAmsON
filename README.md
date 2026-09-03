@@ -1,6 +1,7 @@
-# RAmsON
+# RAmsON.     
 
 *RAmsON International*
+<img width="400" height="400" alt="1000087240" src="https://github.com/user-attachments/assets/26e20902-e2c0-4452-a55f-fcbb40ba6204" />
 
 
 
@@ -147,5 +148,6 @@ Para garantizar la luz verde de los auditores de la Unión Europea, el presupues
 3.    **Marca de Ecoturismo de Alta Gama:** La creación del corredor dinárico-adriático posicionará a la región como un destino líder mundial para el turismo de avistamiento científico, atrayendo capital internacional sostenible.
 
 
+<img width="1300" height="1300" alt="1000087236" src="https://github.com/user-attachments/assets/9218f4ac-da2f-416b-80dd-e00a4a68c764" />
 
 
