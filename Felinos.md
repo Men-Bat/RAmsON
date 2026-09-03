@@ -21,7 +21,13 @@ Si nos fijamos en la situación límite que sufrió el lince ibérico o la que p
 
 ## 1. El Leopardo de Amur (Panthera pardus orientalis)
 
+
+
+<img width="740" height="740" alt="1000087395" src="https://github.com/user-attachments/assets/61b3dd0c-e07c-4d16-bd68-6968e93cd7dd" />
+
 * Situación: Es el gran felino más amenazado del planeta.
+
+  
 * Peligro similar: Al igual que el lince ibérico en su peor momento, solo quedan algo más de 100 ejemplares en libertad en la frontera entre el extremo oriente de Rusia y China. Su principal enemigo es la pérdida de hábitat y la caza furtiva por su hermoso pelaje.
 
 ---
@@ -29,15 +35,30 @@ Si nos fijamos en la situación límite que sufrió el lince ibérico o la que p
 
 ## 2. El Visón Europeo (Mustela lutreola)
 
+
+<img width="308" height="164" alt="1000087396" src="https://github.com/user-attachments/assets/3461216e-def2-4d32-8d90-7e3a589f29d3" />
+
+
+
+
 * Situación: El mamífero más amenazado de Europa.
+
+
 * Peligro similar: Este pequeño carnívoro semiacuático ha desaparecido del 90% de su territorio original en el continente. Su situación es crítica debido a la destrucción de los ríos y, sobre todo, a la invasión del visón americano (una especie exótica introducida por la industria peletera que compite agresivamente con él y le transmite enfermedades).
 
 ---
 
 
+
 ## 3. El Gato de Borneo (Catopuma badia)
 
+<img width="201" height="251" alt="1000087390" src="https://github.com/user-attachments/assets/6887a681-d420-44cd-a362-6ea18fda289f" />
+
+
+
 * Situación: Un felino misterioso y en peligro.
+
+  
 * Peligro similar: Endémico exclusivamente de la isla de Borneo (Indonesia/Malasia). Es tan esquivo y raro que apenas existen fotografías suyas en la naturaleza. Su población está disminuyendo drásticamente debido a la deforestación masiva de las selvas tropicales para dar paso a las plantaciones de aceite de palma.
 
 
@@ -47,7 +68,13 @@ Si nos fijamos en la situación límite que sufrió el lince ibérico o la que p
 
 ## 4. La Vaquita Marina (Phocoena sinus)
 
+<img width="554" height="554" alt="1000087394" src="https://github.com/user-attachments/assets/8ffa3a82-1d51-4acf-9292-d4f7d0d046cc" />
+
+
+
+
 * Situación: Al borde de la extinción absoluta.
+  
 * Peligro similar: Aunque es un cetáceo y no un felino, representa el nivel máximo de alarma biológica actual. Quedan menos de una docena de individuos en el Golfo de California (México). Su desaparición se debe enteramente a la pesca ilegal con redes de enmalle destinadas a capturar otro pez en peligro (el totoaba)
 
 
