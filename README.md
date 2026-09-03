@@ -269,10 +269,9 @@ ____________________________________________
 # . Diversidad Biológica:
 Otras Especies Endémicas de los Balcanes: 
 
- [En Peligro de Extinción.](https://github.com/Men-Bat/RAmsON/blob/main/Peligros.md)
+ [En Peligro de Extinción.][(](https://github.com/Men-Bat/RAmsON/blob/main/Peligrod.md)
 
- [Ya Casi Extintas.](https://github.com/Men-Bat/RAmsON/blob/main/Peligro.md)
-
+ [Ya Extintas o Casi Extintas.](https://github.com/Men-Bat/RAmsON/blob/main/Peligro.md)
 
 <img width="400" height="400" alt="1000087237" src="https://github.com/user-attachments/assets/2bb4366e-a74f-4756-9270-1c7331272329" />
 
