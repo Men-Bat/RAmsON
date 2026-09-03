@@ -214,7 +214,7 @@ Si la monitorización continua mediante los Mini-Air-Fly integrados detectare al
 Para justificar de forma auditable los desembolsos financieros ante la Comisión Europea, el éxito de la *Balkan Lynx Sky-Corridor Initiative* se medirá mediante los siguientes indicadores de impacto técnico, biológico y de mitigación:
 
 ### Fase 1: Implementación Tecnológica y Viabilidad (Años 1 y 2: 2026 - 2028)
-*   **KPI T1 (Eficiencia de Monitoreo HALE):** Cobertura del 100% de la superficie del corredor transfronterizo (Mavrovo - Shebenik - Vlorë) mediante vuelos del dron solar de gran altitud, garantizando un mínimo de 150 horas de vuelo continuo por trimestre sin emisiones de carbono.
+*   **KPI T1 (Eficiencia de Monitoreo WARNET):** Cobertura del 100% de la superficie del corredor transfronterizo (Mavrovo - Shebenik - Vlorë) mediante vuelos del dron solar de gran altitud, garantizando un mínimo de 150 horas de vuelo continuo por trimestre sin emisiones de carbono.
 *   **KPI T2 (Tasa de Intervención Micro-Dron):** Tiempo de respuesta menor a 20 minutos en el despliegue de los micro-drones exploradores tras la detección de alertas térmicas sospechosas (alertas de furtivismo o firmas de calor compatibles con felinos).
 *   **KPI A1 (Línea de Base de Presas):** Cartografiar y verificar un aumento mínimo del 15% en las poblaciones de liebre de monte en Karaburun y el Paisaje Protegido Vjosa-Narta mediante muestreos sistemáticos de ADN ambiental y cámaras trampa antes de realizar la primera liberación.
 
@@ -239,6 +239,6 @@ ____________________________________________
 -Cronograma de Trabajo.
 (Diagrama de Gantt)
 
--Presupuesto Desglosado por Partidas.
+-Presupuesto Desglosado de Fases y Partidas.
 
 -Plan de Comunicación y Difusión Pública. (Dissemination Plan)
