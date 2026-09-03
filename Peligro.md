@@ -27,7 +27,7 @@ el resto del dossier:
 Se integra este "mito real" en la narrativa de la subvención del lince, generando un Impacto en vistas a la Recuperación de Especies. 
 
 * El "Santo Grial" del Sistema WarNet: En la sección de justificación tecnológica del proyecto, podemos añadir que la red de drones WarNet y los micro-exploradores Mini AiR Fly realizarán un escaneo térmico secundario en las áreas inexploradas de la Península de Karaburun. El objetivo científico secundario será buscar rastros de calor o madrigueras de los últimos ejemplares del Mustelailurus, un animal que la cultura popular balcánica consideraba extinguido en la zona por la caza peletera del siglo XX.
-* Narrativamente de Ámbito Internacional es el mismo proyecto que salva al lince y  busca "el equivalente real del Marsupilami europeo" en los acantilados de Vlorë multiplicando el interés y la colaboración social en la persecución de su ecosistema.
+* Narrativamente de Ámbito Internacional es el mismo proyecto que salva al lince y  busca "el equivalente real del Marsupilami europeo" en los acantilados de Vlorë multiplicando el interés y la colaboración social en preservacion del ecosistema.
 
 
 
