@@ -1,4 +1,4 @@
-### La región de Vlorë (que abarca el Delta de Vjosa-Narta y la Península de Karaburun) alberga su propio inventario de joyas zoológicas reales que se encuentran en peligro crítico de extinción debido a la presión del nuevo aeropuerto y el turismo costero.
+### La región de Vlorë (que abarca el Delta de Vjosa-Narta y la Península de Karaburun) alberga su propio inventario de joyas zoológicas reales que se encuentran en peligro crítico de extinción debido a la presión del nuevo aeropuerto y la especulativa masificación del turismo costero.
 
 
 ____________________________________________
@@ -7,6 +7,7 @@ ____________________________________________
 
 Los animales en mayor riesgo en esa zona específica son:
 
+____________________________________________
 
 
 ## 1. La Foca Monje del Mediterráneo (Monachus monachus)
@@ -21,6 +22,10 @@ Es extremadamente sensible al ruido de las embarcaciones turísticas y la contam
 
 
 
+
+____________________________________________
+
+
 ## 2. El Pelícano Ceñudo (Pelecanus crispus)
 
 
@@ -31,6 +36,10 @@ Es extremadamente sensible al ruido de las embarcaciones turísticas y la contam
 
 La construcción de infraestructuras masivas y las colisiones con tendidos eléctricos son su mayor amenaza actual.
 
+
+
+
+____________________________________________
 
 
 ## 3. La Tortuga Boba (Caretta caretta) y Tortuga Verde (Chelonia mydas)
@@ -45,7 +54,14 @@ El desarrollo de complejos hoteleros y la contaminación lumínica en las playas
 
 
 
+____________________________________________
+
+
 ## 4. El Murciélago de Cueva (Miniopterus schreibersii) y otras especies cavernícolas
+
+<img width="980" height="778" alt="1000087382" src="https://github.com/user-attachments/assets/7a7f169c-e3cd-4ce1-979a-2d9173d16c8b" />
+
+
 
 
 *Estado*: Vulnerable (Protegido por Directivas de la UE).
@@ -58,9 +74,10 @@ Son indispensables para el control de plagas del ecosistema, pero el turismo de 
 
 
 
-
+---
 ____________________________________________
 
+____________________________________________
 
 
 Con el Sistema aéreo WarNet y los micro-drones Mini AiR Fly no solo se protegerá al lince de los Balcanes, sino que servirá como un "Escudo de Biodiversidad Multiespecie".
@@ -72,6 +89,11 @@ Las cámaras térmicas de gran altura del sistema pueden monitorizar simultánea
 -Las rutas de aproximación de las bandadas de pelícanos ceñudos para obligar al aeropuerto a activar protocolos de parada temporal o radares de aves si hay riesgo de colisión.
 
 ____________________________________________
+
+<img width="225" height="225" alt="1000087385" src="https://github.com/user-attachments/assets/3f8d661e-1943-4d31-9633-4cc746b0e218" />
+
+
+
 
 
 (La coordinación con los movimientos de protección de los murciélagos de las Bat Cuevas, de la UE; como por las alteraciones sonoras; hacen ahora más que necesaria la presencia de Organizaciones Tecnologicas de Protección Animal, para la evaluación y la detección temprana de los riesgos y de las consecuencias para las distintas especies amenazadas y sus medios naturales; en países que internamente tienden a realizar Explotación y Privatización; disponiendo de poco desarrollo interno para la creación de Alta Tecnología Propietaria y de Supervisión.)
