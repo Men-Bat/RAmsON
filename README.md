@@ -247,6 +247,35 @@ ____________________________________________
 -Cronograma de Trabajo.
 [(Diagrama de Gantt)](https://github.com/Men-Bat/RAmsON/blob/main/Cronograma_Gantt_WarNet_Lince.xlsx)
 
--Presupuesto Desglosado de Fases y Partidas.
+-Presupuesto Desglosado de [Fases y Partidas.](https://github.com/Men-Bat/RAmsON/blob/main/Presupuesto_Desglosado_WarNet_Lince.xlsx)
 
 -Plan de Comunicación y Difusión Pública. [(Dissemination Plan)](https://github.com/Men-Bat/RAmsON/Marketing.md)
+
+
+
+____________________________________________
+
+
+#. MOTIVACION.
+
+
+
+____________________________________________
+
+
+
+
+# . Diversidad Biológica en Peligro de Extinción.
+
+<img width="400" height="400" alt="1000087237" src="https://github.com/user-attachments/assets/2bb4366e-a74f-4756-9270-1c7331272329" />
+
+
+____________________________________________
+
+
+
+# Colaborar
+
+
+
+____________________________________________
