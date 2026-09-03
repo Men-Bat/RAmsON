@@ -56,7 +56,7 @@ Si nos fijamos en la situación límite que sufrió el lince ibérico o la que p
 
 
 * Y 
-  también Programas de Protección del leopardo de Amur en los bosques nevados de Rusia.
+  también existen Programas de Protección del leopardo de Amur en los bosques nevados de Rusia.
 
 [1] [https://www.facebook.com](https://www.facebook.com/themissinglynxproject/posts/did-you-know-there-are-four-species-of-lynx-in-the-world-north-america-has-the-b/122201411264250410/)
 [2] [https://www.euronatur.org](https://www.euronatur.org/en/what-we-do/news/new-regional-strategy-for-balkan-lynx-conservation)
