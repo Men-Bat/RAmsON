@@ -256,8 +256,8 @@ ____________________________________________
 ____________________________________________
 
 
-# MOTIVACION - Estado Actual - FaQ.
- [Lince Balcánico](https://github.com/Men-Bat/RAmsON/blob/main/EstadoActual.md)
+# MOTIVACION - Estado
+ **FaQ:** [Lince Balcánico](https://github.com/Men-Bat/RAmsON/blob/main/EstadoActual.md) 
 
 <img width="740" height="740" alt="1000087374" src="https://github.com/user-attachments/assets/ac9089bc-43ef-49f8-9769-299176b56338" />
 
