@@ -1,4 +1,4 @@
-### La región de Vlorë (que abarca el Delta de Vjosa-Narta y la Península de Karaburun) alberga su propio inventario de joyas zoológicas reales que se encuentran en peligro crítico de extinción debido a la presión del nuevo aeropuerto y la especulativa masificación del turismo costero.
+### La región de Vlorë (que abarca el Delta de Vjosa-Narta y la Península de Karaburun) alberga su propio inventario de joyas zoológicas reales que se encuentran en peligro crítico de extinción debido a la presión del nuevo aeropuerto y la masificación de turismo costero.
 
 
 ____________________________________________
@@ -11,6 +11,9 @@ ____________________________________________
 
 
 ## 1. La Foca Monje del Mediterráneo (Monachus monachus)
+
+
+<img width="740" height="740" alt="1000087389" src="https://github.com/user-attachments/assets/a5589579-f21b-4817-860b-7dd659fe2289" />
 
 
 *Estado*: En peligro crítico de extinción.
@@ -29,6 +32,11 @@ ____________________________________________
 ## 2. El Pelícano Ceñudo (Pelecanus crispus)
 
 
+
+
+<img width="800" height="900" alt="1000087388" src="https://github.com/user-attachments/assets/c653030d-bc85-4566-88f3-fa73653a5ea5" />
+
+
 *Estado*: Casi amenazado / Vulnerable (dependiendo de la colonia).
 
 
@@ -43,6 +51,9 @@ ____________________________________________
 
 
 ## 3. La Tortuga Boba (Caretta caretta) y Tortuga Verde (Chelonia mydas)
+
+
+<img width="201" height="251" alt="1000087387" src="https://github.com/user-attachments/assets/59ea418f-a186-499c-8e3b-8be7e9089d8e" />
 
 
 *Estado*: Vulnerable / En Peligro.
