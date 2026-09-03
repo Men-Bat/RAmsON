@@ -152,7 +152,59 @@ Para garantizar la luz verde de los auditores de la Unión Europea, el presupues
 
 3.    **Marca de Ecoturismo de Alta Gama:** La creación del corredor dinárico-adriático posicionará a la región como un destino líder mundial para el turismo de avistamiento científico, atrayendo capital internacional sostenible.
 
+---
+
+
+________________________________________________________________________________________
+
+
+
+
 
 <img width="1300" height="1300" alt="1000087236" src="https://github.com/user-attachments/assets/9218f4ac-da2f-416b-80dd-e00a4a68c764" />
 
 (Con solo unos 50 ejemplares de la especie exclusiva de los Balcanes, es el tercer gran felino de esta especie en Mayor ⚡ Peligro ⚡; gracias a los programas similares con sus parientes próximos: el Lince Ibérico mediterráneo y el más grande Lince Boreal de montaña, en cuyo centro se situa esta especie media en hábitat, clima y tamaño, aun con las mismas posibilidades de repoblación y supervivencia que sus parientes Europeos.)
+
+
+________________________________________________________________________________________
+
+
+
+---
+
+
+
+## 6. PLAN AMBIENTAL Y MEDIDAS DE PROTECCIÓN EN EL ENTORNO ADRIÁTICO-JÓNICO
+
+La integración de la zona costera de **Vlorë (Vjosa-Narta y Karaburun)** requiere un marco de protección estricto que garantice la viabilidad del corredor frente a la presión antrópica. El plan ambiental se divide en tres ejes de actuación inmediata:
+
+### A. Zonificación y Micro-Reservas de Conectividad
+*   **Zonas Núcleo de Silencio:** Declaración de exclusión total para actividades turísticas motorizadas en los valles interiores de la Península de Karaburun. Estas zonas se destinarán únicamente al asentamiento de ejemplares liberados.
+*   **Corredor Fluvial Blindado:** Establecimiento de una franja de protección de 500 metros a cada lado del cauce bajo del río Vjosa, prohibiendo nuevas construcciones industriales o modificaciones del suelo para asegurar el tránsito libre del felino.
+
+### B. Gestión Activa del Hábitat y Biodiversidad Base
+*   **Plan de Fomento del Conejo de Monte y Liebre:** Implementación de vivares y mejoras en el sotobosque mediterráneo de Karaburun y las zonas forestales de Narta para asegurar una biomasa de presas suficiente que fije los territorios de los linces reintroducidos.
+*   **Patrullas Tecnológicas Anti-Furtivismo:** Creación de una unidad conjunta (Guardaparques de la RAPA Vlorë + ONGs del consorcio) apoyada por el sistema de micro-drones autónomos del proyecto, destinada a la detección temprana de lazos, trampas y cazadores ilegales.
+
+---
+
+## 7. MATRIZ Y SECCIÓN DE MITIGACIÓN DE RIESGOS
+
+El área costera de Vlorë se encuentra bajo una fuerte presión de desarrollo. Para cumplir con las directrices de la Unión Europea sobre el **Principio de "No causar un perjuicio significativo" (DNSH - Do No Significant Harm)**, se establece la siguiente estrategia de mitigación frente a las amenazas clave identificadas en el territorio:
+
+| Riesgo Identificado | Nivel de Riesgo | Impacto Potencial | Estrategia de Mitigación del Proyecto |
+| :--- | :--- | :--- | :--- |
+| **Proximidad del Aeropuerto Internacional de Vlorë (VIA)** | **CRÍTICO** | • Contaminación acústica y lumínica.<br>• Fragmentación del hábitat en el sector norte de Vjosa-Narta.<br>• Riesgo de atropellos en vías de acceso rápido. | 1. **Barreras Sónicas Naturales:** Plantación de cinturones forestales densos de pino carrasco y vegetación autóctona alrededor del perímetro del aeropuerto para absorber el ruido de las turbinas.<br>2. **Ecopuentes y Pasos de Fauna:** Exigir y cofinanciar la construcción de pasos subterráneos específicos para felinos en las carreteras de conexión (como la autopista Fier-Vlorë).<br>3. **Corredores Orientados al Sur:** Desviar la ruta de dispersión del lince hacia las áreas interiores y montañosas orientales del río Vjosa, evitando el perímetro directo de las pistas de aterrizaje. |
+| **Megaproyectos Turísticos en la Costa de Vlorë** | **ALTO** | • Urbanización masiva del litoral.<br>• Aumento del flujo humano y vehículos.<br>• Destrucción de la cobertura vegetal costera. | 1. **Límites al Desarrollo Terrestre (Buffer Zones):** Promover mediante la subvención la ampliación de las zonas de amortiguación donde la ley albanesa prohíba edificación hotelera pesada.<br>2. **Custodia de Territorio con Operadores:** Firmar acuerdos de conservación con complejos turísticos existentes para limitar la iluminación nocturna (protección de cielos oscuros) y prohibir actividades de todoterreno (*off-road*) fuera de pistas autorizadas.<br>3. **Monitorización HALE Temprana:** Uso del dron solar de alta cota para mapear semanalmente el avance del suelo urbanizado y denunciar invasiones ilegales de territorio forestal protegido. |
+| **Turismo Náutico y Recreativo en Karaburun** | **MEDIO** | • Perturbación en las calas de acceso costero.<br>• Generación de residuos en zonas vírgenes. | 1. **Restricción de Puntos de Desembarco:** Prohibir el fondeo y desembarco de turistas en las playas interiores que conectan con los valles de cría del lince.<br>2. **Turismo Científico Regulado:** Sustituir el turismo de masas por rutas controladas de senderismo científico guiado por los miembros formados del proyecto, generando ingresos alternativos y controlando el flujo humano. |
+
+### Criterio de Salvaguarda Ambiental Final
+Si la monitorización continua mediante los micro-drones integrados detecta que los niveles de ruido y luz del nuevo aeropuerto modifican los patrones de conducta nocturna de las liebres o linces en el sector costero, el proyecto activará de forma automática los **protocolos de translocación inducida**, reorientando las liberaciones exclusivamente hacia las laderas montañosas de la Cordillera de Lungara, que actúa como pantalla montañosa natural aislando el ruido costero del interior del país.
+
+
+
+
+
+
+
+
