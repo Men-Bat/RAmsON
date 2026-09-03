@@ -1,16 +1,16 @@
 # Lince 
 
 
-Existen [4 Especies de Linces] en el Mundo y solo una Subespecie distinta adaptada de una de ellas en los Balcanes. (Linx Balkan)
+Existen [4 Especies de Linces](https://github.com/Men-Bat/RAmsON/blob/main/Felinos.md) en el Mundo y solo una Subespecie distinta adaptada de una de ellas, en los Balcanes. (Lynx Balkan)
 
 
 
 
-En el marco de los programas de recuperación y reinserción de especies en el medio natural para preservacion de la ecodiversidad.
+En el marco de los programas de recuperación y reinserción de especies en el medio natural para la preservacion de la ecodiversidad.
 
 ---
 
-   # Proyecto : 
+   # Proyecto Balcánico:
 
 *RAmsON International*
 
