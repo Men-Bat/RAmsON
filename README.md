@@ -58,7 +58,7 @@ El rotundo éxito de España con el lince ibérico (programa *LIFE LynxConnect*)
 
   *  **Consolidación en el Medio:**
     Entidad independiente de protección furtiva de caza y pesca en los ámbitos rurales; en combinación de vigilancia de presas introducidas de naturaleza endémica, con su cria cautiva natural y liberación 
-en el medio con introducción de medios de supervivencia natural independiente en coordinación con la autoridades locales y centros de conservación natural rural.
+en el medio con introducción de medios de supervivencia natural independiente en coordinación con las autoridades locales y centros de conservación natural rural.
 ---
 
 -Opción Inicial Básica: 
