@@ -5,7 +5,7 @@ ____________________________________________
 
 
 
-Los animales en mayor riesgo en esa zona específica son:
+Los animales en peligro específico son:
 
 ____________________________________________
 
