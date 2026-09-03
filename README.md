@@ -137,7 +137,7 @@ El aislamiento genético del lince de los Balcanes se mitiga mediante un corredo
 
 Para garantizar la luz verde de los auditores de la Unión Europea, el presupuesto se vincula a tres retornos clave:
 
-1.  **Seguridad Fronteriza y Tecnológica:** El sistema HALE no solo vigila linces; detecta incendios forestales de forma instantánea antes de que se propaguen y previene la tala ilegal en fronteras complejas.
+1.  **Seguridad Fronteriza y Tecnológica:** El sistema WARNET no solo vigila linces; detecta incendios forestales de forma instantánea antes de que se propaguen y previene la tala ilegal en fronteras complejas.
 
 
 2.  **Generación de Empleo Verde Local:** El plan de cría y reintroducción contratará a antiguos cazadores y guardabosques de las zonas rurales más deprimidas de Albania y Macedonia del Norte, reconvirtiéndolos en "Custodios del Lince".
