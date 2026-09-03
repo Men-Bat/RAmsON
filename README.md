@@ -20,13 +20,13 @@
 Para evitar la intrusión humana en los inaccesibles y escarpados picos de los Alpes Dináricos, el proyecto plantea un ecosistema de monitorización aérea en tres niveles, **cero emisiones (solar)** y acústicamente imperceptible.
 
 ### A. Plataforma Nodriza WARNET  
-##([WarNet-Air](https://github.com/Men-Bat/WarNet-Air-Linx/blob/main/README.md) )
+## ([WarNet-Air](https://github.com/Men-Bat/WarNet-Air-Linx/blob/main/README.md) )
 *   **Misión:** Vigilancia macro-regional continua de los hábitats fronterizos.
 *   **Tecnología:** Drones de gran envergadura propulsados por energía solar fotovoltaica integrada en su embergadura. Vuelo autónomo en la baja estratosfera (entre 12.000 y mas de 15.000 metros de altura).
 *   **Impacto Cero:** Al operar a cotas tan elevadas, son térmicamente neutros, 100% silenciosos para la fauna y no generan huella de carbono.
 *   **Sensores:** Cámaras hiperespectrales y térmicas de gran apertura capaces de escanear densas coberturas boscosas de día y de noche.
 
-### B. Micro-Drones de Exploración Integrados (Sub-Nodrizas)
+### B. Micro-Drones de Exploración Integrados (WarNet-Fly)
 *   **Misión:** Inspección a micro-escala ante alertas específicas (detección de calor compatible con felinos o incursiones de furtivos).
 *   **Operativa:** La aeronave nodriza AIR libera pequeños micro-drones autónomos que descienden de forma planeada y silenciosa hacia el dosel forestal.
 *   **Tecnología:** Sensores ópticos 4K con zoom óptico estabilizado y lentes de reducción de ruido térmico. Una vez completada la ruta de escaneo de alta resolución, regresan a puntos de recarga solar automatizados en tierra o bases fijas del parque nacional.
