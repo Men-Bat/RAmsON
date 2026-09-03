@@ -16,7 +16,10 @@
   
 
 ------------------------------
-## 🏛️ SIMULACRO DE AUDITORÍA: PREGUNTAS CRÍTICAS Y PLAN DE RESPUESTAS## Pregunta 1 (Sostenibilidad de Métodos): Las ONGs locales (MES, PPNEA) llevan casi 20 años usando cámaras trampa convencionales y rastreo a pie. ¿Por qué la UE debería financiar una infraestructura tan costosa como los drones solares WarNet en lugar de ampliar los métodos que ya manejan las ONGs?
+## 🏛️ FaQ - SIMULACRO DE AUDITORÍA: PREGUNTAS CRÍTICAS Y PLAN DE RESPUESTAS
+____________________________________________
+
+## Pregunta 1 (Sostenibilidad de Métodos): Las ONGs locales (MES, PPNEA) llevan casi 20 años usando cámaras trampa convencionales y rastreo a pie. ¿Por qué la UE debería financiar una infraestructura tan costosa como los drones solares WarNet en lugar de ampliar los métodos que ya manejan las ONGs?
 
 
 
