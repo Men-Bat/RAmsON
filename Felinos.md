@@ -1,6 +1,6 @@
 El género Lynx está compuesto por cuatro especies únicas en todo el mundo. Mientras algunas gozan de poblaciones estables, otras han vivido al borde de la desaparición. [1] 
 
-A continuación, se detallan las cuatro especies de linces existentes y otros animales que comparten un peligro de extinción crítico similar.
+---
 ------------------------------
 ## 🐾 Las 4 Especies de Linces del Mundo
 
