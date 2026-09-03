@@ -256,7 +256,8 @@ ____________________________________________
 ____________________________________________
 
 
-# MOTIVACION.
+# MOTIVACION - Estado Actual - FaQ.
+ [Lince Balcánico](https://github.com/Men-Bat/RAmsON/blob/main/EstadoActual.md)
 
 <img width="740" height="740" alt="1000087374" src="https://github.com/user-attachments/assets/ac9089bc-43ef-49f8-9769-299176b56338" />
 
@@ -269,7 +270,7 @@ ____________________________________________
 # . Diversidad Biológica:
 Otras Especies Endémicas de los Balcanes: 
 
- [En Peligro de Extinción.][(](https://github.com/Men-Bat/RAmsON/blob/main/Peligrod.md)
+ [En Peligro de Extinción.](https://github.com/Men-Bat/RAmsON/blob/main/Peligros.md)
 
  [Ya Extintas o Casi Extintas.](https://github.com/Men-Bat/RAmsON/blob/main/Peligro.md)
 
