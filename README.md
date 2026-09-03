@@ -199,7 +199,7 @@ El área costera de Vlorë se encuentra bajo una fuerte presión de desarrollo. 
 | **Turismo Náutico y Recreativo en Karaburun** | **MEDIO** | • Perturbación en las calas de acceso costero.<br>• Generación de residuos en zonas vírgenes. | 1. **Restricción de Puntos de Desembarco:** Prohibir el fondeo y desembarco de turistas en las playas interiores que conectan con los valles de cría del lince.<br>2. **Turismo Científico Regulado:** Sustituir el turismo de masas por rutas controladas de senderismo científico guiado por los miembros formados del proyecto, generando ingresos alternativos y controlando el flujo humano. |
 
 ### Criterio de Salvaguarda Ambiental.
-[(Otros escenarios analizados)](https://github.com/yoqer/Guerras/blob/main/Demostracion)
+[(Contra escenarios escenarios posibles.)](https://github.com/yoqer/Guerras/blob/main/Demostracion)
 
 Si la monitorización continua mediante los Mini-Air-Fly integrados detectare alteraciones como que los niveles de ruido y luz del nuevo aeropuerto modifican los patrones de conducta nocturna de las liebres o linces en el sector costero, el proyecto debria activar de forma automática los **protocolos de translocación inducida**, reorientando las liberaciones exclusivamente hacia las laderas montañosas de la Cordillera de Lungara, que actúa como pantalla montañosa natural aislando el ruido costero del interior del país.
 
