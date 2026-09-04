@@ -10,7 +10,8 @@ Los animales con un peligro específico son:
 ____________________________________________
 
 
-## 1. La Foca Monje del Mediterráneo (Monachus monachus)
+## 1. La Foca Monje del Mediterráneo (Monachus monachus) 
+[Medidas](https://github.com/Men-Bat/RAmsON/blob/main/Foca.md)
 
 
 <img width="740" height="740" alt="1000087389" src="https://github.com/user-attachments/assets/a5589579-f21b-4817-860b-7dd659fe2289" />
@@ -30,6 +31,7 @@ ____________________________________________
 
 
 ## 2. El Pelícano Ceñudo (Pelecanus crispus)
+[Precauciones](https://github.com/Men-Bat/RAmsON/blob/main/Foca.md)
 
 
 
@@ -50,7 +52,9 @@ La construcción de infraestructuras masivas y las colisiones con tendidos eléc
 ____________________________________________
 
 
-## 3. La Tortuga Boba (Caretta caretta) y Tortuga Verde (Chelonia mydas)
+## 3. La Tortuga Boba (Caretta caretta) y Tortuga Verde (Chelonia mydas). 
+[Medidas](https://github.com/Men-Bat/RAmsON/blob/main/Foca.md)
+
 
 
 <img width="351" height="251" alt="1000087387" src="https://github.com/user-attachments/assets/59ea418f-a186-499c-8e3b-8be7e9089d8e" />
@@ -68,9 +72,12 @@ El desarrollo de complejos hoteleros y la contaminación lumínica en las playas
 ____________________________________________
 
 
-## 4. El Murciélago de Cueva (Miniopterus schreibersii) y otras especies cavernícolas
+## 4. El Murciélago de Cueva (Miniopterus schreibersii) y
+[otras especies cavernícolas.](https://github.com/Men-Bat/RAmsON/blob/main/Foca.md)
 
-<img width="980" height="778" alt="1000087382" src="https://github.com/user-attachments/assets/7a7f169c-e3cd-4ce1-979a-2d9173d16c8b" />
+
+<img width="980" height="778" alt="1000087382" src="https://github.com/user-attachments/assets/7a7f169c-e3cd-4ce1-979a-2d9173Medidas](https://github.com/Men-Bat/RAmsON/blob/main/Foca.md)
+d16c8b" />
 
 
 
