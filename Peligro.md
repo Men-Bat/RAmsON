@@ -59,9 +59,11 @@ ____________________________________________
 
 
 
-# Extintas:  El Do-Do, el Mamut Lanudo o el Lobo Feroz; ejemplos en su investigación.
+# Extintas:  
 
-[Procesos de Investigación de Recuperación de Especies Extintas mediante CriprCAS y Genoma.](https://github.com/yoqer/CAS)
+### El Do-Do, el Mamut Lanudo o el Lobo Feroz; ejemplos en su investigación.
+
+[Procesos de Investigación de Recuperación de Especies Extintas mediante Genes y CriprCAS.](https://github.com/yoqer/CAS)
 
 
 
