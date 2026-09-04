@@ -76,7 +76,7 @@ ____________________________________________
 [otras especies cavernícolas.](https://github.com/Men-Bat/RAmsON/blob/main/Foca.md)
 
 
-<img width="980" height="778" alt="1000087382" src="https://github.com/user-attachments/assets/7a7f169c-e3cd-4ce1-979a-2d9173Medidas](https://github.com/Men-Bat/RAmsON/blob/main/Foca.md)
+<img width="980" height="778" alt="1000087382" src="https://github.com/user-attachments/assets/7a7f169c-e3cd-4ce1-979a-2d9173
 d16c8b" />
 
 
