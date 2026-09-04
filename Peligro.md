@@ -53,7 +53,15 @@ sus también cercanos parientes: [Felinos de Isla de Borneo, tienen Grave Peligr
 
 
 
+---
 
+____________________________________________
+
+
+
+# Extintas:  El Do-Do, el Mamut Lanudo o el Lobo Feroz, son algunos ejemplos en investigación.
+
+[Procesos de Investigación de Recuperación de Especies Extintas mediante CriprCAS.](https://github.com/yoqer/CAS)
 
 
 
