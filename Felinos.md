@@ -14,7 +14,7 @@ El género Lynx está compuesto por cuatro especies únicas en todo el mundo. Mi
 
 
    
- Es el gigante del grupo (18–30 kg). Se extiende desde Europa Central hasta Siberia y Asia Oriental. Su estado global es de Preocupación Menor, aunque subespecies aisladas (como el lince de los Balcanes) están críticamente amenazadas. [1, 2, 3] 
+ Es el gigante del grupo (18–30 kg). Se extiende desde Europa Central hasta Siberia y Asia Oriental. Su estado global es de Preocupación Menor, aunque subespecies aisladas (como el [Lince de los Balcanes]) están críticamente amenazadas. [1, 2, 3] 
 
 
     
