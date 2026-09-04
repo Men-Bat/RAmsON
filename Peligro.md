@@ -37,3 +37,16 @@ Se integra este "mito real" en la narrativa de la subvención del lince, generan
 Casi extinto, solo en algunos bosques de los Balcanes sobreviven nómadas ejemplares aislados entre ellos. (Según avistamientos de Pastores Yugoslavos, situandole hacia el Sur).<img width="400" height="400" alt="1000087239" src="https://github.com/user-attachments/assets/4370fe4d-5381-4739-99b7-b510decf109b" />
 
 
+
+
+_________________________________________________
+
+
+Otros Primos suyos como el también cercano pariente: [el Felino de la Isla Borneo, también tienen Grave Peligro.](https://github.com/Men-Bat/RAmsON/blob/main/Felinos.md)
+
+
+
+
+
+
+
