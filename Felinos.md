@@ -18,7 +18,7 @@ _________________________________________________
 
 
    
- Es el gigante del grupo (18–30 kg). Se extiende desde Europa Central hasta Siberia y Asia Oriental. Su estado global es de Preocupación Menor, aunque subespecies aisladas (como el [Lince de los Balcanes]) están Críticamente Amenazadas. [1, 2, 3] 
+ Es el gigante del grupo (18–30 kg). Se extiende desde Europa Central hasta Siberia y Asia Oriental. Su estado global es de Preocupación Menor, aunque subespecies aisladas (como el [Lince de los Balcanes](https://Github.com/Men-Bat/RAmsON/Readme.md) ) están Críticamente Amenazadas. [1, 2, 3] 
 
 
 _________________________________________________
