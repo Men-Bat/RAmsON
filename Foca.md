@@ -29,6 +29,5 @@ El despliegue de las plataformas nodrizas WarNet y los micro-drones autónomos M
 
 
 
-Un solo sistema tecnológico sirve de soporte a toda la red de conservación de los Balcanes sin duplicar funciones y se habilita la posibilidad de intervención, 
-de recurrir a nuestros centros de recuperación por proximidad, urgencia, necesidad veterinaria o asesoramiento.
+Un solo sistema tecnológico sirve de soporte a toda la red de conservación de los Balcanes sin duplicar funcionalidades y se habilita la posibilidad de intervención, asesoramiento o recurrir a nuestros centros de recuperación por proximidad, urgencia o necesidad veterinaria.
 
