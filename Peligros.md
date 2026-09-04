@@ -31,7 +31,7 @@ ____________________________________________
 
 
 ## 2. El Pelícano Ceñudo (Pelecanus crispus)
-[Precauciones](https://github.com/Men-Bat/RAmsON/blob/main/Foca.md)
+[Precauciones](https://github.com/Men-Bat/RAmsON/blob/main/Pelicano.md)
 
 
 
