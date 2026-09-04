@@ -7,6 +7,10 @@ El género Lynx está compuesto por cuatro especies únicas en todo el mundo. Mi
 ------------------------------
 ## 🐾 Las 4 Especies de Linces del Mundo
 
+
+_________________________________________________
+
+
    1. [Lince Boreal](https://youtu.be/N3PmMLH0ji0?is=oR3W0cbx61NH5hli) o Euroasiático (Lynx lynx):
 
 <img width="2711" height="1804" alt="1000087405" src="https://github.com/user-attachments/assets/24c06b0e-7a9e-4d22-9f86-4dfcc73ab8af" />
@@ -14,8 +18,10 @@ El género Lynx está compuesto por cuatro especies únicas en todo el mundo. Mi
 
 
    
- Es el gigante del grupo (18–30 kg). Se extiende desde Europa Central hasta Siberia y Asia Oriental. Su estado global es de Preocupación Menor, aunque subespecies aisladas (como el [Lince de los Balcanes]) están críticamente amenazadas. [1, 2, 3] 
+ Es el gigante del grupo (18–30 kg). Se extiende desde Europa Central hasta Siberia y Asia Oriental. Su estado global es de Preocupación Menor, aunque subespecies aisladas (como el [Lince de los Balcanes]) están Críticamente Amenazadas. [1, 2, 3] 
 
+
+_________________________________________________
 
     
    2. [Lince Canadiense](https://youtube.com/shorts/Znuj_ZmfuGc?is=Puq52iGYY0c8aYts) (Lynx canadensis):
@@ -24,6 +30,7 @@ El género Lynx está compuesto por cuatro especies únicas en todo el mundo. Mi
 
   Habitante de los densos bosques fríos de Alaska, Canadá y el norte de EE. UU.. Destaca por tener unas patas enormes cubiertas de un pelo muy grueso que actúan como raquetas naturales para caminar sobre nieve profunda. [1] 
 
+_________________________________________________
 
     
    3. [Lince Ibérico](https://youtu.be/xfU_wh7kt9E?is=_Meqa0vRCv330IVf) (Lynx pardinus):
@@ -34,6 +41,10 @@ El género Lynx está compuesto por cuatro especies únicas en todo el mundo. Mi
  Exclusivo de España y Portugal. Es considerado uno de los mayores éxitos de conservación del siglo: en el año 2001 quedaban solo 62 ejemplares maduros, pero gracias a los programas de cría en cautividad y reintroducción, su población en libertad supera los 2,600 ejemplares, logrando que la [Unión Internacional para la Conservación de la Naturaleza (UICN)](https://www.iucn.org/es) rebajara su estatus de amenaza de "Peligro Crítico" a Vulnerable. [1, 3, 4, 5] 
    
    
+
+
+_________________________________________________
+
    
    
    4. Lince Rojo o [Gato Montés de Norteamérica](https://youtu.be/2VHf0BT0k-k?is=N4x4hixZW2spicTL) (Lynx rufus):
@@ -136,8 +147,14 @@ https://youtu.be/ChsaYWVmw9E?is=TApFgLDua0cnQsRW)
 
   ---
 
+  
+
 [1] [https://www.facebook.com](https://www.facebook.com/themissinglynxproject/posts/did-you-know-there-are-four-species-of-lynx-in-the-world-north-america-has-the-b/122201411264250410/)
+
 [2] [https://www.euronatur.org](https://www.euronatur.org/en/what-we-do/news/new-regional-strategy-for-balkan-lynx-conservation)
+
 [3] [https://worldanimalrescuenetwork.org](https://worldanimalrescuenetwork.org/wildlife-guides/lynx/)
+
 [4] [https://www.facebook.com](https://www.facebook.com/WildCatFamily/posts/iucn-red-list-update-iberian-lynx-improved-from-endangered-to-vulnerable-the-con/1000876125370883/)
+
 [5] [https://denkstrom.org](https://denkstrom.org/en/goodnews/iberian-lynx-comeback-record-2663-animals/)
