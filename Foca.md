@@ -8,7 +8,7 @@ El despliegue de las plataformas nodrizas WarNet y los micro-drones autónomos M
 * Operación con WarNet: Los sensores acústicos y térmicos integrados en las aeronaves monitorizan los patrones de salida nocturna de las colonias en los sistemas kársticos de Karaburun.
 * Acción y Derivación: En caso de detectar anomalías conductuales derivadas del ruido del nuevo aeropuerto o de actividades turísticas ilegales, el sistema no interviene directamente; emite de forma automatizada un reporte de datos brutos a las autoridades ambientales de Albania (RAPA Vlorë) y a científicos especializados para el sellado físico y la regulación del espacio aéreo circundante.
 
-## B. Colaboración Estratégica y Prioridades Acotadas: La Foca Monje
+## B. Colaboración Estratégica y Prioridades: La Foca Monje
 
 * Acotación del Riesgo: La foca monje (Monachus monachus) se monitoriza bajo una prioridad estrictamente acotada a las zonas de cría y descanso en las cuevas marinas inaccesibles de la península de Karaburun.
 * Operación con WarNet: Las cámaras infrarrojas detectan la firma térmica de los ejemplares en el interior de las grutas sin necesidad de intrusión náutica o humana.
@@ -29,5 +29,5 @@ El despliegue de las plataformas nodrizas WarNet y los micro-drones autónomos M
 
 
 
-Un solo sistema tecnológico sirve de soporte a toda la red de conservación de los Balcanes sin duplicar funcionalidades y se habilita la posibilidad de intervención, asesoramiento o recurrir a nuestros centros de recuperación por proximidad, urgencia o necesidad veterinaria.
+Un solo sistema tecnológico sirve de soporte a toda la red de conservación de los Balcanes sin duplicar funcionalidades y se habilita la posibilidad de intervención, asesoramiento o recurrir a nuestros centros por proximidad, urgencia o necesidad veterinaria.
 
