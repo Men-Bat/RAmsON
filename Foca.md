@@ -23,11 +23,12 @@ El despliegue de las plataformas nodrizas WarNet y los micro-drones autónomos M
 
 1. Vallado perimetral físico preventivo del nido para proteger los huevos contra depredadores y el tránsito humano.
    
-   2. Notificación formal inmediata a los servicios de conservación y biólogos marinos locales (como la red de PPNEA y centros de recuperación de fauna) para que asuman la custodia técnica, el monitoreo del desarrollo y la posterior asistencia en el nacimiento de las crías.
+
+2. Notificación formal inmediata a los servicios de conservación y biólogos marinos locales (como la red de PPNEA y centros de recuperación de fauna) para que asuman la custodia técnica, el monitoreo del desarrollo y la posterior asistencia en el nacimiento de las crías.
 
 ----------------------------------------------------------------------------------------
 
 
 
-Un solo sistema tecnológico sirve de soporte a toda la red de conservación de los Balcanes sin duplicar funcionalidades y se habilita la posibilidad de intervención, asesoramiento o recurrir a nuestros centros por proximidad, urgencia o necesidad veterinaria.
+Un solo sistema tecnológico sirve de soporte a toda la red de conservación de los Balcanes sin duplicar funcionalidades y se habilita la posibilidad de intervención, asesoramiento o recurrir a centros de recuperación, por proximidad, urgencia o necesidad veterinaria.
 
