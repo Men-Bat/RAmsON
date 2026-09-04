@@ -297,6 +297,8 @@ ____________________________________________
 
 # Colaborar
 
+[Video Lince Entrenado con AliAmAliA](https://youtube.com/shorts/m4FIvtFpJgk?is=HIhtZf9EOm2qKmJ2)
+
 
 
 ____________________________________________
