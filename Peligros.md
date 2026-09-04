@@ -72,12 +72,11 @@ El desarrollo de complejos hoteleros y la contaminación lumínica en las playas
 ____________________________________________
 
 
-## 4. El Murciélago de Cueva (Miniopterus schreibersii) y
-[otras especies cavernícolas.](https://github.com/Men-Bat/RAmsON/blob/main/Foca.md)
+## 4. El Murciélago de Cueva (Miniopterus schreibersii) 
+[ Y otras especies cavernícolas.](https://github.com/Men-Bat/RAmsON/blob/main/Foca.md)
 
 
-<img width="980" height="778" alt="1000087382" src="https://github.com/user-attachments/assets/7a7f169c-e3cd-4ce1-979a-2d9173
-d16c8b" />
+<img width="980" height="778" alt="1000087382" src="https://github.com/user-attachments/assets/7a7f169c-e3cd-4ce1-979a-2d9173d16c8b"/>
 
 
 
