@@ -41,8 +41,8 @@ Casi extinto, solo en algunos bosques de los Balcanes sobreviven nómadas ejempl
 
 _________________________________________________
 
-
-Otros Primos suyos como el también cercano pariente: [el Felino de la Isla Borneo, también tienen Grave Peligro.](https://github.com/Men-Bat/RAmsON/blob/main/Felinos.md)
+La especie no solo está casi extinta en todas sus Subespecies aisladas, sino que al igual que ella
+otros primos de ancentros comunes suyos como su también cercano pariente: [el Felino de la Isla Borneo, también tienen Grave Peligro.](https://github.com/Men-Bat/RAmsON/blob/main/Felinos.md)
 
 
 
