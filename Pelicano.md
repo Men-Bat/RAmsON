@@ -18,5 +18,5 @@ El incremento de las bandadas de pelícano ceñudo (Pelecanus crispus) en la cos
 ------------------------------
 
 ---
-Este documento contempla las medidas de seguridad civil exigidas por los auditores europeos en entornos turísticos de alta densidad.
+Este documento contempla las medidas de seguridad civil exigidas de auditores europeos en entornos turísticos de alta densidad.
 
