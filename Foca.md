@@ -1,4 +1,4 @@
-Aquí tienes el texto técnico y ejecutivo listo para insertar en tu propuesta de subvención, redactado bajo los estándares de los fondos Interreg / IPA III de la Comisión Europea:
+
 ------------------------------
 ## 9. IMPACTO ECOLÓGICO MULTIESPECIE Y RED DE CUSTODIA AMBIENTAL
 El despliegue de las plataformas nodrizas WarNet y los micro-drones autónomos Mini AiR Fly no se limita a la protección directa de especies individuales. Su tecnología actúa como un sensor macro-regional que optimiza los recursos de proyectos especializados ya existentes en la costa de Vlorë, activando protocolos de alerta temprana sin interferir en sus competencias directas.
@@ -17,14 +17,18 @@ El despliegue de las plataformas nodrizas WarNet y los micro-drones autónomos M
 ## C. Alerta Temprana de Desove Nocturno: Tortugas Marinas (Caretta caretta)
 
 * Detección Óptica: Durante el periodo estival, el escaneo nocturno continuo de los micro-drones detecta las huellas térmicas y los patrones de movimiento de las tortugas en las playas occidentales vírgenes del corredor.
+
+
 * Acción y Derivación: El sistema de IA procesa la geolocalización exacta del nido y genera una alerta automática. El personal de campo del proyecto acude exclusivamente a realizar dos acciones de emergencia:
+
 1. Vallado perimetral físico preventivo del nido para proteger los huevos contra depredadores y el tránsito humano.
+   
    2. Notificación formal inmediata a los servicios de conservación y biólogos marinos locales (como la red de PPNEA y centros de recuperación de fauna) para que asuman la custodia técnica, el monitoreo del desarrollo y la posterior asistencia en el nacimiento de las crías.
 
------------------------------------------------------
+----------------------------------------------------------------------------------------
 
 
 
-Un solo sistema tecnológico sirve de soporte a toda la red de conservación de los Balcanes sin duplicar funciones y con posibilidad 
+Un solo sistema tecnológico sirve de soporte a toda la red de conservación de los Balcanes sin duplicar funciones y se habilita la posibilidad de intervención, 
 de recurrir a nuestros centros de recuperación por proximidad, urgencia, necesidad veterinaria o asesoramiento.
 
