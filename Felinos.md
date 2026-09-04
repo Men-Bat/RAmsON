@@ -7,7 +7,7 @@ El género Lynx está compuesto por cuatro especies únicas en todo el mundo. Mi
 ------------------------------
 ## 🐾 Las 4 Especies de Linces del Mundo
 
-   1. Lince Boreal o [Euroasiático](https://youtu.be/N3PmMLH0ji0?is=oR3W0cbx61NH5hli) (Lynx lynx):
+   1. [Lince Boreal](https://youtu.be/N3PmMLH0ji0?is=oR3W0cbx61NH5hli) o Euroasiático (Lynx lynx):
 
 <img width="2711" height="1804" alt="1000087405" src="https://github.com/user-attachments/assets/24c06b0e-7a9e-4d22-9f86-4dfcc73ab8af" />
 
