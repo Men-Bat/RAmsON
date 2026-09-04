@@ -94,7 +94,7 @@ Si nos fijamos en la situación límite que )sufrió el lince ibérico o la que 
 * Situación: El mamífero más amenazado de Europa.
 
 
-* Peligro similar: Este pequeño carnívoro semiacuático ha desaparecido del 90% de su territorio original en el continente. Su situación es crítica debido a la destrucción de los ríos y, sobre todo, a la invasión del visón americano (una especie exótica introducida por la industria peletera que compite agresivamente con él y le transmite enfermedades).
+* Peligro similar: Este pequeño carnívoro semiacuático ha desaparecido del 90% de su territorio original en el continente. Su situación es crítica debido a la destrucción de los ríos y, sobre todo, a la invasión del visón americano (una especie exótica introducida por la industria peletera que compite agresivamente con él y transmite enfermedades a este antiguo habitante Mediterráneo).
 
 ---
 
